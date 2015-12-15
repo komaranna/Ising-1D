@@ -11,5 +11,5 @@ main-bitwise.cpp -- Faster solver, spins stored as bits.
 
 Number of iterations can be set through nsteps.
 
-Output is a text file with magnetization and energy values,
+Outputs 2 text files with magnetization and energy values,
 at several temperatures and magnetic fields.
