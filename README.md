@@ -1,5 +1,7 @@
 ## Ising-1D
 
+/2014-10-01/
+
 C code;
 
 Solves 1D Ising model with N spins,
